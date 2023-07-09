@@ -15,6 +15,16 @@ Descubre la magia de la manipulación del DOM con el evento "change" en nuestra 
 
 Al iniciar la aplicación, encontrarás una interfaz intuitiva con deslizadores para los valores de rojo, verde y azul. Cada deslizador está vinculado al evento "change", lo que significa que cualquier cambio que realices en ellos activará una actualización en tiempo real de los colores mostrados.
 
+# Resumen del proyecto #3
+Este proyecto es un generador de citas aleatorias que muestra una cita aleatoria cada vez que el usuario hace clic en un botón. Utiliza HTML, CSS y JavaScript para crear una experiencia interactiva.
+
+Características
+Muestra una cita aleatoria de una lista predefinida de citas.
+Actualiza la cita y el autor de forma dinámica sin recargar la página.
+Genera un índice aleatorio para seleccionar una cita al azar de la lista.
+Utiliza el evento "change" para activar el cambio de cita cuando se hace clic en el botón.
+Uso
+
 # Tecnologías utilizadas
 HTML: se ha utilizado para crear la estructura básica de la página web.
 CSS: se ha utilizado para estilizar la página y definir los estilos del fondo.
