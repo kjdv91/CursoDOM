@@ -9,7 +9,7 @@ En este repositorio encontrarás el código fuente de los ejemplos y proyectos p
 # Resumen del proyecto #1
 Este es un breve resumen de lo que hemos trabajado como parte del curso de manipulación del DOM. El objetivo principal de este proyecto fue actualizar el fondo del body de una página web mediante un evento de clic.
 
-# Resumnen del proyecto #2
+# Resumen del proyecto #2
 
 Descubre la magia de la manipulación del DOM con el evento "change" en nuestra emocionante aplicación de generación de colores RGB! En este proyecto, hemos utilizado la potencia del DOM (Modelo de Objetos del Documento) para crear una experiencia interactiva y visualmente cautivadora.
 
