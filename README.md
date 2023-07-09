@@ -23,7 +23,7 @@ Muestra una cita aleatoria de una lista predefinida de citas.
 Actualiza la cita y el autor de forma dinámica sin recargar la página.
 Genera un índice aleatorio para seleccionar una cita al azar de la lista.
 Utiliza el evento "change" para activar el cambio de cita cuando se hace clic en el botón.
-Uso
+
 
 # Tecnologías utilizadas
 HTML: se ha utilizado para crear la estructura básica de la página web.
